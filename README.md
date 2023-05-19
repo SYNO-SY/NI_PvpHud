@@ -16,6 +16,4 @@ Free PVP Hud Script For Fivem
  
 - Step 3 - start your NI_PvpHud script
 
-## ToDo
 
-- Adding more Config. 
